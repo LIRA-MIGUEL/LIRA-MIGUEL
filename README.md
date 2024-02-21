@@ -1,21 +1,10 @@
-### Hi there 👋
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
-
-
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
-
+### Hola👋 soy Miguel Angel
 <div>
- <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+ <h1>¿Quien soy?</h1>
+ <p>Miguel Angel Lira Tellez </p>
+ <p>Estudiante Universitario</p>
+ <p>Cursando la carrera de Tecnologias de la informacion</p>
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
-</p>
 </div>
 
 ### Programming Languages 🌐
